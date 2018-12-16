@@ -1,0 +1,11 @@
+#
+https://www.tutorialspoint.com/django/django_url_mapping.htm
+
+python manage.py runserver
+http://127.0.0.1:8000/
+
+# tworzenie projektu
+python manage.py startapp polls
+
+# http://127.0.0.1:8000/admin/
+trak trak01
